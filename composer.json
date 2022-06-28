@@ -18,7 +18,7 @@
             "homepage": "http://twitter.com/itigoppo"
         }
     ],
-    "minimum-stability": "stable",
+
     "autoload": {
         "psr-4": {
             "Itigoppo\\BacklogApi\\": "src"
