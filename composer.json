@@ -21,12 +21,12 @@
 
     "autoload": {
         "psr-4": {
-            "staffkojinpro\\BacklogApi\\": "src"
+            "Staffkojinpro\\BacklogApi\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "staffkojinpro\\BacklogApi\\Test\\": "tests/TestCase"
+            "Staffkojinpro\\BacklogApi\\Test\\": "tests/TestCase"
         }
     }
 }
